@@ -1,6 +1,6 @@
 <?php
 
-$host = "YOUR-RDS-ENDPOINT";
+$host = "database-2.ccneo2ee69pt.us-east-1.rds.amazonaws.com";
 $user = "admin";
 $password = "Vishwash";
 $dbname = "mydb";
