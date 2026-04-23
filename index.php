@@ -11,7 +11,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>PHP App</title>
+    <title>PHP Apk</title>
 </head>
 <body>
     <h2>Enter Name</h2>
